@@ -1,16 +1,16 @@
-### Hi there 👋
+My professional experience includes 2 years of software development, with a focus on Web Applications and sophisticated web solutions in the last few years. In addition, I’ve had an opportunity to work with a variety of technologies so I can offer a comprehensive approach to Web development.
 
-<!--
-**xovrashok/xovrashok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SKILLSET
 
-Here are some ideas to get you started:
+Backend:
+- Languages: JavaScript/TypeScript, NodeJS
+- Backend Web Frameworks: Express
+- APIs: REST, GraphQL
+- Understanding of Design Patterns and Software Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend:
+- Languages: Javascript + HTML5/CSS
+- React and associated libraries (Redux)
+- Angular
+- Testing: Jest, Enzyme
+- UI Libraries: Material UI, Bootstrap, MUI
